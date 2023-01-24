@@ -1,6 +1,10 @@
 # sc-moonshine
 Moonshine runs and Processing for QB-CORE
 
+This script was made using code from:
+@LionH34rt oxy runs https://github.com/Lionh34rt/qb-oxyruns
+Project Sloth's ps-drugprocessing script https://github.com/Project-Sloth/ps-drugprocessing
+
 <h1>How To Install</h1>
 Add to qb-core/shared/items.lua
 
